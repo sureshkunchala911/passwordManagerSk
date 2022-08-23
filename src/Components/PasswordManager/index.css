@@ -1,0 +1,210 @@
+.bgContainer {
+  min-height: 100vh;
+  padding: 50px;
+  background-color: #9ba9eb;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.image2 {
+  height: 200px;
+}
+.notFoundContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.appLogo {
+  background-color: transparent;
+  width: 150px;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.addPswdContainer {
+  background-color: #5763a5;
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  height: 450px;
+}
+
+.addPswd {
+  background-color: #454f84;
+  padding: 15px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.heading {
+  color: white;
+  font-size: 15px;
+  font-family: 'roboto';
+  margin-bottom: 20px;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  align-items: center;
+  margin-bottom: 30px;
+  width: 70%;
+  height: 40px;
+  padding: 10px;
+}
+
+.inputImage {
+  background-color: transparent;
+  margin-right: 15px;
+  height: 30px;
+  width: 30px;
+}
+
+.inputBox {
+  height: 25px;
+  outline: none;
+  border-width: 0px;
+}
+
+.buttonContainer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 600px;
+}
+.addButton {
+  background-color: blue;
+  color: white;
+  border-width: 0px;
+  height: 30px;
+  width: 70px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.imageSizing {
+  width: 500px;
+}
+
+.displayPswdContainer {
+  margin-top: 10px;
+  background-color: #5763a5;
+  padding: 30px;
+  width: 1200px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+}
+.showPasswordText {
+  color: #ffffff;
+}
+
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.showPassword {
+  align-self: flex-end;
+}
+.countContainer {
+  display: flex;
+  flex-direction: row;
+}
+.length {
+  margin-left: 10px;
+  border-radius: 10px;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  height: 20px;
+  width: 30px;
+  text-align: center;
+}
+.card2Head {
+  color: white;
+  font-size: 20px;
+}
+
+.uListContainer {
+  background-color: transparent;
+  display: flex;
+  margin-top: 0px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.initialsContainer {
+  background-color: #10b981;
+  display: flex;
+  justify-content: center;
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
+}
+
+.initials {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.detailsContainer {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.sizing {
+  margin: 0px;
+  margin-left: 10px;
+}
+
+p {
+  color: white;
+  font-family: 'roboto';
+}
+
+.deleteIcon {
+  height: 20px;
+  width: 20px;
+}
+
+.deleteButt {
+  align-items: flex-end;
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.starsIMage {
+  width: 80px;
+  height: 10px;
+}
+.searchLogo {
+  height: 20px;
+  width: 30px;
+  background-color: white;
+  height: 30px;
+  margin-right: 5px;
+}
+.searchContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 15px;
+}
+
+.searchBox {
+  background-color: white;
+  height: 30px;
+  outline: none;
+  border-width: 0px;
+}
